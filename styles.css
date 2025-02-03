@@ -13,6 +13,7 @@ main {
   padding: 20px 40px;
   background-color: #2684fc;
   margin: 20px;
+  cursor: pointer;
 }
 
 .btn {
@@ -24,4 +25,10 @@ main {
   background-color: #2684fc;
   border: none;
   cursor: pointer;
+}
+
+.selecionado {
+  background-color: #800 !important;
+  color: #fcc !important;
+  border-color: #f00 !important;
 }
