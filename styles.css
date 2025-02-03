@@ -1,0 +1,27 @@
+main {
+  display: flex;
+}
+
+.caixa {
+  border: 1px solid gray;
+  padding: 40px;
+}
+
+.curso {
+  text-align: center;
+  color: #f1f1f1;
+  padding: 20px 40px;
+  background-color: #2684fc;
+  margin: 20px;
+}
+
+.btn {
+  display: flex;
+  color: #f1f1f1;
+  align-self: center;
+  border-radius: 60px;
+  padding: 20px 60px;
+  background-color: #2684fc;
+  border: none;
+  cursor: pointer;
+}
